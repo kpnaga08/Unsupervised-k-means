@@ -9,7 +9,7 @@ See related paper, doi: 10.1109/ACCESS.2021.3077622, https://ieeexplore.ieee.org
 ***
 
 # Demo: 
-Ukmeans.m: you can run this Ukmeans file, and its performance will be recorded automatically.
+Please run the 'Ukmeans.m', and reproduce the results on 'Iris' datasets.
 
 
 **In case the repository or the publication was helpful in your work, please use the following to cite the original paper,**
