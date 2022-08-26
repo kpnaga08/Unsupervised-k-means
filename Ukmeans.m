@@ -85,7 +85,7 @@ while and(cluster_n>1,err>=thres)
     
     %% STEP 3: Compute gamma
     
-    gamma = exp(-cluster_n/300);
+    gamma = exp(-cluster_n/450);
     
     %% STEP 4: Update alpha 
     
