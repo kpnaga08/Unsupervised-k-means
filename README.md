@@ -9,7 +9,7 @@ See related paper, doi: 10.1109/ACCESS.2021.3077622, https://ieeexplore.ieee.org
 ***
 
 # Demo: 
-Please run the 'Ukmeans.m', and reproduce the results on 'Iris' datasets (optimal # of clusters = 3 and AR = 0.9000).
+Please run the 'Ukmeans.m', and reproduce the results on 'Iris' datasets **(optimal # of clusters = 3 and AR = 0.9000)**.
 
 
 **In case the repository or the publication was helpful in your work, please use the following to cite the original paper,**
